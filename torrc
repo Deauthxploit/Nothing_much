@@ -70,7 +70,7 @@
 ## address y:z.
 
 HiddenServiceDir /data/data/com.termux/files/usr/var/lib/tor/hidden_service/
-HiddenServicePort 80 127.0.0.1:3333
+HiddenServicePort 80 127.0.0.1:8080
 
 #HiddenServiceDir /data/data/com.termux/files/usr/var/lib/tor/other_hidden_service/
 #HiddenServicePort 80 127.0.0.1:80
